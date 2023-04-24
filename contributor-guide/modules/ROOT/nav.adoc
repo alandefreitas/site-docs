@@ -1,2 +1,4 @@
 * New content
 xref:intro.adoc[Introduction to becoming a Boost Contributor]
+xref:index.adoc[Contributor Guide]
+xref:antora.adoc[Antora Guide]
